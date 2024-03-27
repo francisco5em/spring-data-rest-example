@@ -24,7 +24,7 @@ Desmonstration RESTful json api using Spring Data Rest of a database containing 
 - spring-boot-devtools
 
 ### Detailed project description
-The project uses Spring Data with an in memory H2 Database to save the example data, it would use Thymeleaf to generate dynamically the HTML pages by obtaining the data and displaying it at "http://localhost:8080/books" in the web browser.
+The project uses Spring Data with an in memory H2 Database to save the example data, the API would be at the url "http://localhost:8080/api/beer". 
 
 ### Testing
 
@@ -58,6 +58,6 @@ Projecto de demonstracion de RESTful api usando Spring Data Rest de una base de 
 - spring-boot-devtools
 
 ### Descripcion detallada del proyecto
-El proyecto utiliza Spring Data con una base de datos H2 en memoria para guardar los datos de ejemplo, usado Thymeleaf  para genera la pagina web HTML dinamicamente obteniendo automaticamente los datos y mostrandolos en "http://localhost:8080/books" mediante el navegador web.
+El proyecto utiliza Spring Data con una base de datos H2 en memoria para guardar los datos de ejemplo, la API esta en el URL: "http://localhost:8080/api/beer".
 
 ### Testing
