@@ -24,7 +24,7 @@ Desmonstration RESTful json api using Spring Data Rest of a database containing 
 - spring-boot-devtools
 
 ### Detailed project description
-The project uses Spring Data with an in memory H2 Database to save the example data, the API would be at the url "http://localhost:8080/api/beer". 
+The project uses Spring Data with an in memory H2 Database to save the example data, the API would be at the url "http://localhost:8080/api/v1/beer". 
 
 ### Testing
 
@@ -58,6 +58,6 @@ Projecto de demonstracion de RESTful api usando Spring Data Rest de una base de 
 - spring-boot-devtools
 
 ### Descripcion detallada del proyecto
-El proyecto utiliza Spring Data con una base de datos H2 en memoria para guardar los datos de ejemplo, la API esta en el URL: "http://localhost:8080/api/beer".
+El proyecto utiliza Spring Data con una base de datos H2 en memoria para guardar los datos de ejemplo, la API esta en el URL: "http://localhost:8080/api/v1/beer".
 
 ### Testing
